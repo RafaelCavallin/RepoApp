@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// Estilizando página Main
